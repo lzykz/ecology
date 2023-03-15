@@ -45,3 +45,4 @@ lines(spa,col="dark blue")
 text(150,10,"upstream",cex=0.8,col="blue")
 text(20,120,"downstream",cex=0.8,col="blue")
 
+#down
